@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/Samurai Shadows,Automation Dreams.png" width="100%" alt="Samurai game development and IT project management banner"/>
+<img src="assets/SamuraiShadows,AutomationDreams.png" width="100%" alt="Samurai game development and IT project management banner"/>
 
 <br/>
 
